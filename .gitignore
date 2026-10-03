@@ -1,0 +1,9 @@
+Network-Intrusion-Detection-System/
+*.pyc
+__pycache__/
+.DS_Store
+*.xlsx
+*.xlsm
+*.xls
+data/zomato.csv
+data/bengaluru_house_prices.csv
