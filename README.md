@@ -2,6 +2,8 @@
 
 **Portfolio project:** Power BI dashboard identifying high-opportunity localities for cloud kitchen launches in Bangalore.
 
+![Dashboard](screenshots/dashboard.jpg)
+
 ## Features
 - **Data cleaning pipeline** (`prep_data.py`): Zomato restaurant + Bengaluru house-price datasets → cleaned CSVs
 - **Custom metric**: Opportunity Score = (avg votes ÷ restaurants) × (100,000 ÷ rent per sq ft)
